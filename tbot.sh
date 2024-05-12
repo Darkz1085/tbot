@@ -16,7 +16,7 @@ printf     "   ██║   ██████╔╝██║   ██║   █�
 printf     "   ██║   ██╔══██╗██║   ██║   ██║   \n"
 printf     "   ██║   ██████╔╝╚██████╔╝   ██║   \n"
 printf     "   ╚═╝   ╚═════╝  ╚═════╝    ╚═╝   \n"${W}
-printf ${Y}"                By Technical Bot\n"${W}
+printf ${Y}"                By DARK-Z HACKING
 }
 
 
